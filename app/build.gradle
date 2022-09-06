@@ -6,8 +6,8 @@ android {
         applicationId "open.com.permissionsmanager"
         minSdkVersion 23
         targetSdkVersion 32
-        versionCode 6
-        versionName "6.0"
+        versionCode 7
+        versionName "7.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     signingConfigs {
